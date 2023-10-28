@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table.colors tr:nth-child(even) {
+  background-color: rgb(202, 202, 202);
+}
